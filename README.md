@@ -1,14 +1,14 @@
-=================================================================
-! Projeto Integrador - Fatec Mogi Mirim "Arthur de Azevedo"     !
-! Orientador: Márcio Sábino (Cálculo)                           !
-! Linguagem: C                                                  !
-! Bibliotecas:                                                  !
-! Integrantes:                                                  !
-!   Leonardo Vinícius Silva                                     !
-!   Maria Eduarda Melo                                          !
-!   Rafael Binotti                                              !
-=================================================================
+Projeto Integrador - FATEC Mogi Mirim "Arthur de Azevedo"    
+============
+Orientador: Márcio Sábino (Cálculo).                           
+Linguagem: C, Python.                                           
+Bibliotecas:  -                                            
+Integrantes:
+>Leonardo Vinícius Silva | [Git](github.com/oleovinicius)   
+>Maria Eduarda Melo     
+>Rafael Binotti           
+		
+O Projeto Integrador é para projeto da Fatec para os alunos do primeiro e segundo semestre visando entregar conhecimento de todas as matérias.
 
-O Projeto Integrador é para projeto da Fatec para os alunos do primeiro
-e segundo semestre visando entregar conhecimento de todas as materias.
+
 
