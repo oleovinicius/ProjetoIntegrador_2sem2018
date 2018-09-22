@@ -1,14 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
-//#include "clearScreen.h"
-#include "somatoria.h"
-//#include "constantes.h"
-//#include "logica.h"
-//#include "matriz.h"
-//#include "funcao.h"
-//#include "combinatoria.h"
-//#include "derivada.h"
-//#include "integral.h"
+#include "clearScreen.c"
+#include "somatoria.c"
+#include "constantes.c"
+#include "logica.c"
+#include "matriz.c"
+#include "funcao.c"
+#include "combinatoria.c"
+#include "derivada.c"
+#include "integral.c"
 
 
 //void wait_response(void);
@@ -42,31 +42,31 @@ int main (){
 			break;
 
 			case 2:
-				//constantes_menu();
+				constantes_menu();
 			break;
 
 			case 3:
-				//logica_menu();
+				logica_menu();
 			break;
 
 			case 4:
-				//matriz_menu();
+				matriz_menu();
 			break;
 
 			case 5:
-				//funcao_menu();
+				funcao_menu();
 			break;
 
 			case 6:
-				//combinatoria_menu();
+				combinatoria_menu();
 			break;
 
 			case 7:
-				//derivada_menu();
+				derivada_menu();
 			break;
 
 			case 8:
-				//integral_menu();
+				integral_menu();
 			break;
 			case 0:
 				loop =1;
