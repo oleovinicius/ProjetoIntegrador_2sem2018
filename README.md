@@ -29,7 +29,7 @@ Qualquer tipo de ajuda (seja ela grande ou pequena) é bem-vinda.
 **1.** Faça referência ao repositório oficial após o _fork_
 
 ```
-git remote add upstream https://github.com/mayararysia/aprendendo-javascript.git
+git remote add upstream https://github.com/oleovinicius/pi-calculadora.git
 ```
 
 **2.** Antes de iniciar o processo de contribuição, crie uma **nova branch** para fazer suas alterações.
