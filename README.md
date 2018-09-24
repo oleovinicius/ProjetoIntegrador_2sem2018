@@ -8,7 +8,7 @@ Integrantes:
 >Leonardo Vinícius Silva | [Git](github.com/oleovinicius)   
 >Maria Eduarda Melo     
 >Rafael Binotti           
-		
+
 O Projeto Integrador é para projeto da Fatec para os alunos do primeiro e segundo semestre visando entregar conhecimento de todas as matérias.
 
 
@@ -26,7 +26,7 @@ O Projeto Integrador é para projeto da Fatec para os alunos do primeiro e segun
 
 Qualquer tipo de ajuda (seja ela grande ou pequena) é bem-vinda.
 
-**1.** Faça referência ao repositório oficial após o _fork_ 
+**1.** Faça referência ao repositório oficial após o _fork_
 
 ```
 git remote add upstream https://github.com/mayararysia/aprendendo-javascript.git
@@ -36,18 +36,18 @@ git remote add upstream https://github.com/mayararysia/aprendendo-javascript.git
 
 Alguns exemplos:
 
-- Para adicionar exercício na lista: `git checkout -b novoexercicioListaX`
-- Para erros: `git checkout -b correcaoListaX`
+- Para adicionar arquivos na lista: `git checkout -b arquivo.tipo`
+- Para erros: `git checkout -b arquivo.tipo`
 
 > Use qualquer palavra coerente com a contribuição que está sendo feita.
-> `X` representa o número da lista.
+
 
 **3.** Após realizar as alterações, faça um commit com uma mensagem do que foi feito. Exemplo:
 
 ```
 git add --all
-git commit -am ‘Adiciona novo exercício/correção/melhoria na listaX’
-git push origin novoexercicioListaX
+git commit -am ‘correção main.c’
+git push origin branch(master)
 ```
 
 **4.** Envie um _Pull Request_ com as alterações feitas, fazendo referência para o `master`.
@@ -58,8 +58,8 @@ Após o merge:
 
 ```
 git checkout master
-git push origin : novoexercicioListaX
-git branch -D novoexercicioListaX
+git push origin : arquivo.tipo
+git branch -D arquivo.tipo
 ```
 
 - Atualize seu repositório com o repositório oficial:
@@ -78,6 +78,4 @@ git push -f origin master
 - Sempre Estude o Git em caso de dúvidas;
 - Evite Bad Smells.
 
-Obrigada! :heart:
-
-
+Obrigado! :grin:
